@@ -6,9 +6,6 @@ We have developed a number of techniques to study the molecular profiles of circ
 
 We carry a large-scale effort to map epigenomic modifications in more than a dozen different types of human immune cells from normal individuals to understand how epigenetic variations cause susceptibility to disease. For many human diseases, large-scale genomic studies have identified common genetic variants that occur more frequently in people with cardiovascular, autoimmune, inflammatory and infectious diseases, diabetes and asthma than in those without these diseases. However, it has been difficult to pinpoint which genetic changes are truly relevant to disease, or in what specific cell types the genetic variation has the largest effect on one’s health. Mapping the epigenome will enable scientists to zoom in on those genes with the greatest likelihood to contribute to disease, and the cell types in which they act, and therefore will help identify novel therapeutic targets.
 
-📫 Please feel free to reach us at vijaybioinfo@lji.org
-Or any of the lab memeber [here](https://www.lji.org/faculty-research/labs/vijayanand/#overview)
-
 ⚡ Fun facts:
 - We created the [DICE database](https://dice-database.org) along with other members of the La Jolla Institute for immunolgy. Check the [publication](https://doi.org/10.1016/j.cell.2018.10.022).
 
@@ -17,6 +14,13 @@ Or any of the lab memeber [here](https://www.lji.org/faculty-research/labs/vijay
 - Single-cell transcriptomic analysis of allergen-specific T cells in allergy and asthma [_Science Immunology_](https://doi.org/10.1126/sciimmunol.aba6087)
 - Single-cell transcriptomic analysis of tissue-resident memory T cells in human lung cancer [_JEM_](https://doi.org/10.1084/jem.20190249)
 - Impact of Genetic Polymorphisms on Human Immune Cell Gene Expression [_Cell_](https://doi.org/10.1016/j.cell.2018.10.022)
+
+
+📫 Please feel free to reach us at our GitHub [email](vijay_bioinformatics@lji.org).
+Or any of the lab memeber [here](https://www.lji.org/faculty-research/labs/vijayanand/#overview).
+Contributors to this account are:
+- Ariel; [Twitter](https://twitter.com/arielmadr).
+- [Ciro](https://github.com/cramirezs); [Twitter](https://twitter.com/Cramsuig).
 
 <!--
 **vijaybioinfo/vijaybioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
