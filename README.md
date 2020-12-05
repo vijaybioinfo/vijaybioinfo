@@ -17,7 +17,7 @@ We carry a large-scale effort to map epigenomic modifications in more than a doz
 
 
 📫 Please feel free to reach us at our GitHub [email](vijay_bioinformatics@lji.org).
-Or any of the lab memeber [here](https://www.lji.org/faculty-research/labs/vijayanand/#overview).
+Or any of the lab members [here](https://www.lji.org/faculty-research/labs/vijayanand/#overview).
 Contributors to this account are:
 - Ariel; [Twitter](https://twitter.com/arielmadr).
 - [Ciro](https://github.com/cramirezs); [Twitter](https://twitter.com/Cramsuig).
