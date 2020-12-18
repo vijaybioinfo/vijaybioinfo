@@ -24,6 +24,8 @@ Contributors to this account are:
 
 [![Vijaybioinfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaybioinfo)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Vijaybioinfo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=vijaybioinfo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **vijaybioinfo/vijaybioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
