@@ -10,6 +10,7 @@ We carry a large-scale effort to map epigenomic modifications in more than a doz
 - We created the [DICE database](https://dice-database.org) along with other members of the La Jolla Institute for immunolgy. Check the [publication](https://doi.org/10.1016/j.cell.2018.10.022).
 
 📚 Highlighted publications:
+- Promoter-interacting expression quantitative trait loci are enriched for functional genetic variants [_Nature Genetics_](https://doi.org/10.1038/s41588-020-00745-3)
 - Single-cell transcriptomic analysis of SARS-CoV-2 reactive CD4+ T cells [_Cell_](https://doi.org/10.1016/j.cell.2020.10.001)
 - Single-cell transcriptomic analysis of allergen-specific T cells in allergy and asthma [_Science Immunology_](https://doi.org/10.1126/sciimmunol.aba6087)
 - Single-cell transcriptomic analysis of tissue-resident memory T cells in human lung cancer [_JEM_](https://doi.org/10.1084/jem.20190249)
