@@ -23,7 +23,7 @@ We carry a large-scale effort to map epigenomic modifications in more than a doz
 Or any of the lab members [here](https://www.lji.org/faculty-research/labs/vijayanand/#overview).
 Contributors to this account are:
 
-- Ariel ([GH]([TW](https://twitter.com/arielmadr))
+- Ariel ([TW](https://twitter.com/arielmadr))
 - Ciro ([GH](https://github.com/cramirezs), [TW](https://twitter.com/Cramsuig)).
 
 [![Vijaybioinfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaybioinfo)](https://github.com/anuraghazra/github-readme-stats)
