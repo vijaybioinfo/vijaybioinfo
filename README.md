@@ -24,7 +24,9 @@ Or any of the lab members [here](https://www.lji.org/faculty-research/labs/vijay
 Contributors to this account are:
 
 - Ariel ([TW](https://twitter.com/arielmadr))
-- Ciro ([GH](https://github.com/cramirezs), [TW](https://twitter.com/Cramsuig)).
+- Ciro ([GH](https://github.com/cramirezs), [TW](https://twitter.com/Cramsuig))
+- Vicente ([TW](https://twitter.com/VicenteFoRs))
+- Cristian ([TW](https://twitter.com/MeDicenCrix))
 
 [![Vijaybioinfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaybioinfo)](https://github.com/anuraghazra/github-readme-stats)
 
