@@ -27,6 +27,12 @@ Contributors to this account are:
 - Ciro ([GH](https://github.com/cramirezs), [TW](https://twitter.com/Cramsuig))
 - Vicente ([TW](https://twitter.com/VicenteFoRs))
 - Cristian ([TW](https://twitter.com/MeDicenCrix))
+- Job (jrocha@lji.org)
+- Kevin ([TW](https://twitter.com/KevsGenomic))
+- Emmanuel (fcastaneda@lji.org)
+- Elizabeth (emgomez@lji.org)
+- Angel (acastillo@lji.org)
+- Azaid (moarias@lji.org)
 
 [![Vijaybioinfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaybioinfo)](https://github.com/anuraghazra/github-readme-stats)
 
