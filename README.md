@@ -13,9 +13,10 @@ We carry a large-scale effort to map epigenomic modifications in more than a doz
 📚 Highlighted publications:
 
 - Promoter-interacting expression quantitative trait loci are enriched for functional genetic variants [_Nature Genetics_](https://doi.org/10.1038/s41588-020-00745-3)
-- Single-cell transcriptomic analysis of SARS-CoV-2 reactive CD4+ T cells [_Cell_](https://doi.org/10.1016/j.cell.2020.10.001)
+- Imbalance of regulatory and cytotoxic SARS-CoV-2-reactive CD4^[+] T cells in COVID-19 [_Cell_](https://doi.org/10.1016/j.cell.2020.10.001)
 - Single-cell transcriptomic analysis of allergen-specific T cells in allergy and asthma [_Science Immunology_](https://doi.org/10.1126/sciimmunol.aba6087)
 - Single-cell transcriptomic analysis of tissue-resident memory T cells in human lung cancer [_JEM_](https://doi.org/10.1084/jem.20190249)
+- Single-cell eQTL analysis of activated T cell subsets reveals activation and cell type-dependent effects of disease-risk variants [ *Science Immunology* ](https://www.science.org/doi/10.1126/sciimmunol.abm2508)
 - Impact of Genetic Polymorphisms on Human Immune Cell Gene Expression [_Cell_](https://doi.org/10.1016/j.cell.2018.10.022)
 
 
